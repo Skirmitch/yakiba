@@ -1,0 +1,147 @@
+[
+  {
+    "id": "3547eb4",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#212121",
+      "padding": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "60",
+        "right": "60",
+        "bottom": "60",
+        "left": "60",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "60",
+        "right": "25",
+        "bottom": "60",
+        "left": "25",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "a8ba85f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "500",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "margin_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "15f4991",
+            "elType": "widget",
+            "settings": {
+              "title": "Supporting Subheading",
+              "size": "medium",
+              "header_size": "h4",
+              "align": "center",
+              "title_color": "#F5F5F5",
+              "typography_typography": "custom",
+              "typography_font_style": "italic",
+              "_padding": {
+                "unit": "px",
+                "top": "8",
+                "right": "20",
+                "bottom": "8",
+                "left": "20",
+                "isLinked": false
+              },
+              "_background_background": "classic",
+              "_background_color": "#424242",
+              "_border_radius": {
+                "unit": "px",
+                "top": "4",
+                "right": "4",
+                "bottom": "4",
+                "left": "4",
+                "isLinked": true
+              },
+              "_element_width": "auto"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "39eb1d0",
+            "elType": "widget",
+            "settings": {
+              "title": "This is a Section Heading You Can Edit",
+              "align": "left",
+              "title_color": "#FFFFFF",
+              "_margin": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "f25d51b",
+            "elType": "widget",
+            "settings": {
+              "width": {
+                "unit": "px",
+                "size": 100,
+                "sizes": []
+              },
+              "text": "Divider",
+              "color": "#BDBDBD",
+              "gap": {
+                "unit": "px",
+                "size": 5,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "42608b1",
+            "elType": "widget",
+            "settings": {
+              "editor": "Lacinia quisque deserunt deserunt condimentum, vestibulum, perspiciatis nostrud habitant deleniti! Elementum tortor eros pretium, ligula mus fames illo litora,.",
+              "text_color": "#BDBDBD"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

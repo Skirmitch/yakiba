@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "5939a86c",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 100
+      },
+      "background_background": "classic",
+      "background_image": {
+        "id": "10",
+        "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/landscape-mountains-sky-4843193.jpg"
+      },
+      "background_position": "top center",
+      "background_attachment": "scroll",
+      "background_size": "cover",
+      "background_overlay_background": "gradient",
+      "background_overlay_color": "#153243",
+      "background_overlay_color_b": "#1A6C7A",
+      "background_overlay_gradient_type": "radial",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.5
+      },
+      "css_filters_blur": {
+        "unit": "px",
+        "size": 10
+      },
+      "css_filters_brightness": {
+        "unit": "px",
+        "size": 145
+      },
+      "css_filters_contrast": {
+        "unit": "px",
+        "size": 77
+      },
+      "css_filters_hue": {
+        "unit": "px",
+        "size": 167
+      },
+      "custom_height_tablet": {
+        "unit": "vh",
+        "size": 40
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "150",
+        "right": "20",
+        "bottom": "50",
+        "left": "20",
+        "isLinked": false
+      },
+      "custom_height_mobile": {
+        "unit": "vh",
+        "size": "",
+        "sizes": []
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "100",
+        "right": "50",
+        "bottom": "50",
+        "left": "50",
+        "isLinked": false
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 700,
+        "sizes": []
+      },
+      "gap": "no"
+    },
+    "elements": [
+      {
+        "id": "6f6a47a9",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "74d36843",
+            "elType": "widget",
+            "settings": {
+              "title": "Multi-purpose Template",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "typography_font_size": {
+                "unit": "px",
+                "size": ""
+              },
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": ""
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": ""
+              },
+              "typography_letter_spacing_mobile": {
+                "unit": "px",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "ffa1734",
+            "elType": "widget",
+            "settings": {
+              "title": "Create Your Website",
+              "align": "center",
+              "title_color": "#ffffff",
+              "typography_font_size": {
+                "unit": "px",
+                "size": ""
+              },
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": ""
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": ""
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "header_size": "h1",
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "1c0d792",
+            "elType": "widget",
+            "settings": {
+              "align": "center",
+              "text_color": "#FFFFFF",
+              "_margin": {
+                "unit": "px",
+                "top": "10",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "143e9c37",
+            "elType": "section",
+            "settings": {
+              "structure": "20",
+              "margin": {
+                "unit": "px",
+                "top": "30",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              },
+              "margin_mobile": {
+                "unit": "px",
+                "top": "20",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              },
+              "content_width": {
+                "unit": "px",
+                "size": 400,
+                "sizes": []
+              },
+              "gap": "no"
+            },
+            "elements": [
+              {
+                "id": "5acde085",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "31fcced2",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "Services",
+                      "size": "lg",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": ""
+                      },
+                      "typography_letter_spacing": {
+                        "unit": "px",
+                        "size": ""
+                      },
+                      "button_text_color": "#FFFFFF",
+                      "button_hover_border_color": "#1A6C7A",
+                      "border_border": "solid",
+                      "border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2",
+                        "isLinked": true
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "align": "center",
+                      "align_mobile": "center",
+                      "border_color": "#FFFFFF"
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "6e649c",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "5b930ae3",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "About Us",
+                      "size": "lg",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": ""
+                      },
+                      "typography_letter_spacing": {
+                        "unit": "px",
+                        "size": ""
+                      },
+                      "button_text_color": "#1A6C7A",
+                      "background_color": "#FFFFFF",
+                      "hover_color": "#FFFFFF",
+                      "button_background_hover_color": "#1A6C7A",
+                      "button_hover_border_color": "#1A6C7A",
+                      "border_border": "solid",
+                      "border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2",
+                        "isLinked": true
+                      },
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "align": "center",
+                      "align_mobile": "center",
+                      "border_color": "#FFFFFF",
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7e21b87",
+    "elType": "section",
+    "settings": {
+      "gap": "no",
+      "structure": "30",
+      "padding": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "40",
+        "right": "10",
+        "bottom": "40",
+        "left": "10",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "20",
+        "right": "20",
+        "bottom": "20",
+        "left": "20",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "ecf0f71",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "content_position": "center",
+          "background_background": "classic",
+          "background_image": {
+            "id": "11",
+            "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/green-leafed-trees-during-fog-time-167684.jpg"
+          },
+          "background_position": "center center",
+          "background_size": "cover",
+          "background_overlay_background": "classic",
+          "background_overlay_color": "#153243",
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.3
+          },
+          "css_filters_blur": {
+            "unit": "px",
+            "size": 10
+          },
+          "css_filters_saturate": {
+            "unit": "px",
+            "size": 172
+          },
+          "css_filters_hue": {
+            "unit": "px",
+            "size": 226
+          },
+          "background_overlay_hover_background": "classic",
+          "background_overlay_hover_color": "#1A6C7A",
+          "background_overlay_hover_opacity": {
+            "unit": "px",
+            "size": 0.4
+          },
+          "css_filters_hover_blur": {
+            "unit": "px",
+            "size": 8.1
+          },
+          "border_width": {
+            "unit": "px",
+            "top": "-1",
+            "right": "-1",
+            "bottom": "-1",
+            "left": "-1",
+            "isLinked": true
+          },
+          "margin": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "margin_mobile": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "px",
+            "top": "150",
+            "right": "50",
+            "bottom": "150",
+            "left": "50",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "95",
+            "right": "35",
+            "bottom": "95",
+            "left": "35",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "40c051ee",
+            "elType": "widget",
+            "settings": {
+              "title": "Service 1",
+              "link": {
+                "url": "\\/services\\/#service-1",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "align": "center",
+              "title_color": "#FFFFFF"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "8ee04f9",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "content_position": "center",
+          "background_background": "classic",
+          "background_image": {
+            "id": 12,
+            "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/snowy-mountain-1287145.jpg"
+          },
+          "background_position": "center center",
+          "background_size": "cover",
+          "background_overlay_background": "classic",
+          "background_overlay_color": "#153243",
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.3
+          },
+          "css_filters_blur": {
+            "unit": "px",
+            "size": 10
+          },
+          "css_filters_saturate": {
+            "unit": "px",
+            "size": 172
+          },
+          "css_filters_hue": {
+            "unit": "px",
+            "size": 226
+          },
+          "background_overlay_hover_background": "classic",
+          "background_overlay_hover_color": "#1A6C7A",
+          "background_overlay_hover_opacity": {
+            "unit": "px",
+            "size": 0.4
+          },
+          "css_filters_hover_blur": {
+            "unit": "px",
+            "size": 8.1
+          },
+          "border_width": {
+            "unit": "px",
+            "top": "-1",
+            "right": "-1",
+            "bottom": "-1",
+            "left": "-1",
+            "isLinked": true
+          },
+          "margin": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "margin_mobile": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "px",
+            "top": "150",
+            "right": "50",
+            "bottom": "150",
+            "left": "50",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "95",
+            "right": "35",
+            "bottom": "95",
+            "left": "35",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "2cb5ae60",
+            "elType": "widget",
+            "settings": {
+              "title": "Service 2",
+              "link": {
+                "url": "\\/services\\/#service-2",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "align": "center",
+              "title_color": "#FFFFFF"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "aaf2547",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "content_position": "center",
+          "background_background": "classic",
+          "background_image": {
+            "id": 13,
+            "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg"
+          },
+          "background_position": "center center",
+          "background_size": "cover",
+          "background_overlay_background": "classic",
+          "background_overlay_color": "#153243",
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.3
+          },
+          "css_filters_blur": {
+            "unit": "px",
+            "size": 10
+          },
+          "css_filters_saturate": {
+            "unit": "px",
+            "size": 172
+          },
+          "css_filters_hue": {
+            "unit": "px",
+            "size": 226
+          },
+          "background_overlay_hover_background": "classic",
+          "background_overlay_hover_color": "#1A6C7A",
+          "background_overlay_hover_opacity": {
+            "unit": "px",
+            "size": 0.4
+          },
+          "css_filters_hover_blur": {
+            "unit": "px",
+            "size": 8.1
+          },
+          "border_width": {
+            "unit": "px",
+            "top": "-1",
+            "right": "-1",
+            "bottom": "-1",
+            "left": "-1",
+            "isLinked": true
+          },
+          "margin": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "margin_mobile": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "px",
+            "top": "150",
+            "right": "50",
+            "bottom": "150",
+            "left": "50",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "95",
+            "right": "35",
+            "bottom": "95",
+            "left": "35",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "c2e7812",
+            "elType": "widget",
+            "settings": {
+              "title": "Service 3",
+              "link": {
+                "url": "\\/services\\/#service-3",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "align": "center",
+              "title_color": "#FFFFFF"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "34277c67",
+    "elType": "section",
+    "settings": {
+      "structure": "20",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "80",
+        "bottom": "50",
+        "left": "80",
+        "isLinked": false
+      },
+      "gap": "no",
+      "padding_mobile": {
+        "unit": "px",
+        "top": "20",
+        "right": "30",
+        "bottom": "50",
+        "left": "30",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "217497e3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": null,
+          "_inline_size_tablet": 100
+        },
+        "elements": [
+          {
+            "id": "25666558",
+            "elType": "widget",
+            "settings": {
+              "title": "Amazing Things for You",
+              "align_mobile": "center",
+              "align_tablet": "center"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "2d17052",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": null,
+          "_inline_size_tablet": 100,
+          "padding_tablet": {
+            "unit": "px",
+            "top": "30",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "77680b8d",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Always write benefits over features. Mention all the benefits or services with some real examples. Focus on how you can help and benefit your user. Use simple words so that you don\\u2019t confuse people. Say as much in as few words as possible.<\\/p>",
+              "align_mobile": "center",
+              "align_tablet": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "79f77c2",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Speak directly to users using you not I or we.<\\/p>",
+              "align_mobile": "center",
+              "align_tablet": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "673bee84",
+            "elType": "widget",
+            "settings": {
+              "text": "Our History",
+              "border_width": {
+                "unit": "px",
+                "top": "2",
+                "right": "2",
+                "bottom": "2",
+                "left": "2",
+                "isLinked": true
+              },
+              "align_mobile": "center",
+              "align_tablet": "center",
+              "_margin": {
+                "unit": "px",
+                "top": "10",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4076731b",
+    "elType": "section",
+    "settings": {
+      "custom_height": {
+        "unit": "px",
+        "size": ""
+      },
+      "background_background": "classic",
+      "background_image": {
+        "id": 17,
+        "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/fogs-on-green-mountain-1054222.jpg"
+      },
+      "background_position": "center center",
+      "background_attachment": "fixed",
+      "background_size": "cover",
+      "background_overlay_background": "gradient",
+      "background_overlay_color": "#153243",
+      "background_overlay_color_b": "#1A6C7A",
+      "background_overlay_gradient_type": "radial",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.6
+      },
+      "css_filters_blur": {
+        "unit": "px",
+        "size": 10
+      },
+      "css_filters_brightness": {
+        "unit": "px",
+        "size": 145
+      },
+      "css_filters_contrast": {
+        "unit": "px",
+        "size": 77
+      },
+      "css_filters_hue": {
+        "unit": "px",
+        "size": 167
+      },
+      "margin": {
+        "unit": "px",
+        "top": "",
+        "right": 0,
+        "bottom": "",
+        "left": 0,
+        "isLinked": true
+      },
+      "custom_height_tablet": {
+        "unit": "vh",
+        "size": 50
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 350
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 600,
+        "sizes": []
+      },
+      "gap": "no",
+      "padding": {
+        "unit": "px",
+        "top": "190",
+        "right": "0",
+        "bottom": "190",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "50",
+        "right": "50",
+        "bottom": "50",
+        "left": "50",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "30",
+        "bottom": "50",
+        "left": "30",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "7940ca75",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "8eb0793",
+            "elType": "widget",
+            "settings": {
+              "title": "Call to Action",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_style": "italic",
+              "typography_font_weight": "bold",
+              "typography_text_transform": "capitalize"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "c7eec9d",
+            "elType": "widget",
+            "settings": {
+              "align": "center",
+              "text_color": "#FFFFFF",
+              "_margin": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "1ad749e1",
+            "elType": "widget",
+            "settings": {
+              "text": "Contact",
+              "align": "center",
+              "size": "lg",
+              "typography_font_size": {
+                "unit": "px",
+                "size": ""
+              },
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": ""
+              },
+              "button_text_color": "#ffffff",
+              "background_color": "rgba(0,0,0,0)",
+              "hover_color": "#1A6C7A",
+              "button_background_hover_color": "#FFFFFF",
+              "button_hover_border_color": "#FFFFFF",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "2",
+                "right": "2",
+                "bottom": "2",
+                "left": "2",
+                "isLinked": true
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "border_color": "#FFFFFF",
+              "_margin": {
+                "unit": "px",
+                "top": "30",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "icon_indent": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4fa11189",
+    "elType": "section",
+    "settings": {
+      "margin": {
+        "unit": "px",
+        "top": "",
+        "right": 0,
+        "bottom": "",
+        "left": 0,
+        "isLinked": true
+      },
+      "gap": "no",
+      "margin_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "50",
+        "right": "50",
+        "bottom": "50",
+        "left": "50",
+        "isLinked": true
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "30",
+        "bottom": "50",
+        "left": "30",
+        "isLinked": false
+      },
+      "background_background": "gradient",
+      "background_color": "#FFFFFF",
+      "background_color_b": "rgba(26, 108, 122, 0.08)"
+    },
+    "elements": [
+      {
+        "id": "6a0cb495",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "4d9d9662",
+            "elType": "widget",
+            "settings": {
+              "wp_gallery": [
+                {
+                  "id": "12",
+                  "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/snowy-mountain-1287145.jpg"
+                },
+                {
+                  "id": "11",
+                  "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/green-leafed-trees-during-fog-time-167684.jpg"
+                },
+                {
+                  "id": 18,
+                  "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/green-grass-field-and-mountain-1034887.jpg"
+                },
+                {
+                  "id": 19,
+                  "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/bird-s-eye-view-photography-of-green-forest-1208379.jpg"
+                },
+                {
+                  "id": "13",
+                  "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg"
+                },
+                {
+                  "id": 20,
+                  "url": "https:\\/\\/websitedemos.net\\/mountain\\/wp-content\\/uploads\\/sites\\/571\\/2020\\/04\\/mountain-and-lake-at-sunset-135157.jpg"
+                }
+              ],
+              "thumbnail_size": "medium_large",
+              "gallery_columns": "3",
+              "image_spacing": "custom",
+              "_animation": "none",
+              "_margin": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "image-gallery"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]
