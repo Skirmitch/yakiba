@@ -6,6 +6,7 @@ safebackup/
 wp-content/ai1wm-backups/
 database-backups/
 *.sql
+!infrastructure/*.sql
 
 # Cache and upgrade staging
 wp-content/cache/
