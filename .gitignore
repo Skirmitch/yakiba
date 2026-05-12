@@ -8,6 +8,9 @@ database-backups/
 *.sql
 !infrastructure/*.sql
 
+# Full DB snapshots (large; contain user emails — keep local only)
+infrastructure/db-snapshots/
+
 # Cache and upgrade staging
 wp-content/cache/
 wp-content/advanced-cache.php
