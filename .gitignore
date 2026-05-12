@@ -4,6 +4,8 @@ wp-content/uploads/
 # Backup dumps
 safebackup/
 wp-content/ai1wm-backups/
+database-backups/
+*.sql
 
 # Cache and upgrade staging
 wp-content/cache/
@@ -13,9 +15,28 @@ wp-content/upgrade/
 # Sensitive config
 wp-config.php
 
+# WP-CLI runtime state
+.wpcli
+
+# Webserver overrides (managed per-environment)
+.htaccess
+
 # OS junk
 .DS_Store
 Thumbs.db
 
 # Node artifacts
 node_modules/
+
+# Claude Code project config
+.claude/
+
+# Legacy artifacts at Diana repo root (pre-restructure)
+/docker-compose.yml
+/wordpress-*.zip
+/wordpress_restore/
+
+# Root-owned orphan files from a prior all-in-one-wp-migration install on Diana;
+# plugin is deleted on the production server. Remove locally with:
+#   sudo rm -rf wordpress/wp-content/plugins/all-in-one-wp-migration/
+wordpress/wp-content/plugins/all-in-one-wp-migration/

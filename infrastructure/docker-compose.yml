@@ -1,0 +1,35 @@
+services:
+  db:
+    image: mariadb:10.11
+    restart: unless-stopped
+    mem_limit: 256m
+    memswap_limit: 512m
+    environment:
+      MYSQL_ROOT_PASSWORD: yakiba_root_pass
+      MYSQL_DATABASE: yakiba_db
+      MYSQL_USER: yakiba_user
+      MYSQL_PASSWORD: yakiba_pass
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./backup.sql:/docker-entrypoint-initdb.d/backup.sql
+      - ./mariadb-custom.cnf:/etc/mysql/conf.d/custom.cnf
+
+  wordpress:
+    image: wordpress:6.4-php8.2-apache
+    restart: unless-stopped
+    mem_limit: 256m
+    memswap_limit: 512m
+    depends_on:
+      - db
+    ports:
+      - "127.0.0.1:8080:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: yakiba_db
+      WORDPRESS_DB_USER: yakiba_user
+      WORDPRESS_DB_PASSWORD: yakiba_pass
+    volumes:
+      - ./wordpress:/var/www/html
+
+volumes:
+  db_data:

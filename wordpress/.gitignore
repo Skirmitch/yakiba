@@ -1,0 +1,21 @@
+# Uploaded media (1.3GB of photos/files)
+wp-content/uploads/
+
+# Backup dumps
+safebackup/
+wp-content/ai1wm-backups/
+
+# Cache and upgrade staging
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/upgrade/
+
+# Sensitive config
+wp-config.php
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node artifacts
+node_modules/
